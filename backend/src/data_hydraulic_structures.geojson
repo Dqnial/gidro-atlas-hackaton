@@ -1,0 +1,3738 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-05T20:47:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110271858",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.067569,
+          49.7907194
+        ]
+      },
+      "id": "way/110271858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171900723",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7562986,
+          43.4188039
+        ]
+      },
+      "id": "way/171900723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171900725",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7562035,
+          43.4187932
+        ]
+      },
+      "id": "way/171900725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184541040",
+        "man_made": "pumping_station",
+        "name": "(тепловой павильон узел №2) (тепломагистраль - М5 (УУ-2) КМТС)",
+        "operator": "ТОО \"Теплотранзит Караганда\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1416811,
+          49.7856527
+        ]
+      },
+      "id": "way/184541040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244124802",
+        "landuse": "industrial",
+        "man_made": "pumping_station",
+        "name": "Насосная станция",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6134443,
+          53.9450116
+        ]
+      },
+      "id": "way/244124802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244125085",
+        "landuse": "industrial",
+        "man_made": "pumping_station",
+        "name": "Насосная станция",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.661165,
+          54.0243131
+        ]
+      },
+      "id": "way/244125085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/244139122",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7159438,
+          49.9005354
+        ]
+      },
+      "id": "node/244139122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/334733811",
+        "building": "yes",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9431477,
+          47.0823766
+        ]
+      },
+      "id": "way/334733811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398450323",
+        "addr:city": "Караганда",
+        "addr:housenumber": "11/1",
+        "addr:street": "Сатыбалдина улица",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1450719,
+          49.7774668
+        ]
+      },
+      "id": "way/398450323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408841412",
+        "addr:housenumber": "40а",
+        "addr:street": "Шернияза",
+        "building": "yes",
+        "man_made": "pumping_station",
+        "name": "Насосная станция II подъема города",
+        "pumping_station": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2259087,
+          50.2793763
+        ]
+      },
+      "id": "way/408841412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/456347365",
+        "building": "yes",
+        "man_made": "pumping_station",
+        "pumping_station": "sewage",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4029271,
+          51.2402194
+        ]
+      },
+      "id": "way/456347365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/456348893",
+        "building": "yes",
+        "man_made": "pumping_station",
+        "pumping_station": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4201929,
+          51.2465711
+        ]
+      },
+      "id": "way/456348893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/462146268",
+        "name": "Шлюз",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0610346,
+          50.3957672
+        ]
+      },
+      "id": "node/462146268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/498424454",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1066061,
+          50.9399274
+        ]
+      },
+      "id": "way/498424454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/508167046",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1276322,
+          54.9113624
+        ]
+      },
+      "id": "way/508167046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548566122",
+        "building": "service",
+        "building:levels": "1",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1991201,
+          50.278723
+        ]
+      },
+      "id": "way/548566122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573212087",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.9380278,
+          41.3083034
+        ]
+      },
+      "id": "node/573212087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/600406719",
+        "building": "service",
+        "man_made": "pumping_station",
+        "pumping_station": "sewage",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8711508,
+          47.1120925
+        ]
+      },
+      "id": "way/600406719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618557445",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.06305,
+          50.3957853
+        ]
+      },
+      "id": "node/618557445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/628035691",
+        "building": "yes",
+        "building:levels": "1",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9315007,
+          47.1287302
+        ]
+      },
+      "id": "way/628035691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641423648",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.5141532,
+          43.5054103
+        ]
+      },
+      "id": "way/641423648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/652297758",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0926874,
+          49.8982659
+        ]
+      },
+      "id": "way/652297758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/669464567",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3789469,
+          46.1971648
+        ]
+      },
+      "id": "way/669464567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/852597016",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.8713384,
+          52.5510134
+        ]
+      },
+      "id": "way/852597016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/916470392",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0536756,
+          54.8723849
+        ]
+      },
+      "id": "way/916470392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945062177",
+        "man_made": "pumping_station",
+        "name": "БИГ1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9651088,
+          48.6473762
+        ]
+      },
+      "id": "way/945062177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945062179",
+        "man_made": "pumping_station",
+        "name": "БИГ6",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9649778,
+          48.6440816
+        ]
+      },
+      "id": "way/945062179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945673646",
+        "man_made": "pumping_station",
+        "name": "Насосная пожарных резервуаров",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9309009,
+          48.6439467
+        ]
+      },
+      "id": "way/945673646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945673652",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9377528,
+          48.6384259
+        ]
+      },
+      "id": "way/945673652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945673653",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9379876,
+          48.6388362
+        ]
+      },
+      "id": "way/945673653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947539130",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9780587,
+          46.8331525
+        ]
+      },
+      "id": "way/947539130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/974682746",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7960468,
+          42.424484
+        ]
+      },
+      "id": "way/974682746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/974864421",
+        "man_made": "pumping_station",
+        "name": "Насосная пожарных резервуаров АБУ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9193759,
+          48.645768
+        ]
+      },
+      "id": "way/974864421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977107946",
+        "man_made": "pumping_station",
+        "name": "БИГ3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9614025,
+          48.6427391
+        ]
+      },
+      "id": "way/977107946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977108018",
+        "man_made": "pumping_station",
+        "name": "БИГ2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9647102,
+          48.6433282
+        ]
+      },
+      "id": "way/977108018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977108040",
+        "man_made": "pumping_station",
+        "name": "БИГ5",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.960781,
+          48.6418039
+        ]
+      },
+      "id": "way/977108040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/996807978",
+        "building": "yes",
+        "man_made": "pumping_station",
+        "name": "ПНС-2А",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7770749,
+          47.7910005
+        ]
+      },
+      "id": "way/996807978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1066625090",
+        "man_made": "pumping_station",
+        "name": "Насосная станция",
+        "operator": "ТОО \"Горкомхоз Модернизация жилья\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7722053,
+          52.2344529
+        ]
+      },
+      "id": "way/1066625090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1101776520",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8166324,
+          42.2140101
+        ]
+      },
+      "id": "way/1101776520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1101776525",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8197001,
+          42.211395
+        ]
+      },
+      "id": "way/1101776525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1152296428",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8209355,
+          43.2091964
+        ]
+      },
+      "id": "way/1152296428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1155395486",
+        "man_made": "pumping_station",
+        "name": "Водокачка",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6278766,
+          46.1261287
+        ]
+      },
+      "id": "way/1155395486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1172738384",
+        "building": "yes",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9298435,
+          47.1301553
+        ]
+      },
+      "id": "way/1172738384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1276305436",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0521597,
+          43.5548466
+        ]
+      },
+      "id": "way/1276305436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1285554155",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7904124,
+          42.1976527
+        ]
+      },
+      "id": "node/1285554155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1312624626",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2510159,
+          41.477872
+        ]
+      },
+      "id": "way/1312624626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313463506",
+        "boat": "no",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3002309,
+          41.4374533
+        ]
+      },
+      "id": "way/1313463506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372595",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3472316,
+          41.4657758
+        ]
+      },
+      "id": "way/1314372595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372596",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3467242,
+          41.465234
+        ]
+      },
+      "id": "way/1314372596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372597",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3462463,
+          41.4666866
+        ]
+      },
+      "id": "way/1314372597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372598",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3476674,
+          41.4645333
+        ]
+      },
+      "id": "way/1314372598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372599",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.344724,
+          41.4648318
+        ]
+      },
+      "id": "way/1314372599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372600",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3445289,
+          41.4659042
+        ]
+      },
+      "id": "way/1314372600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372601",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3435451,
+          41.465569
+        ]
+      },
+      "id": "way/1314372601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372602",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3488912,
+          41.4645302
+        ]
+      },
+      "id": "way/1314372602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372603",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3458473,
+          41.4635053
+        ]
+      },
+      "id": "way/1314372603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372604",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3420327,
+          41.4635644
+        ]
+      },
+      "id": "way/1314372604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372605",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3399674,
+          41.4639423
+        ]
+      },
+      "id": "way/1314372605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372606",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3434129,
+          41.4616831
+        ]
+      },
+      "id": "way/1314372606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372607",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3416017,
+          41.4604813
+        ]
+      },
+      "id": "way/1314372607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372608",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3431433,
+          41.4644674
+        ]
+      },
+      "id": "way/1314372608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372609",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.341927,
+          41.464844
+        ]
+      },
+      "id": "way/1314372609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372610",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3396223,
+          41.4628571
+        ]
+      },
+      "id": "way/1314372610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372611",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3385153,
+          41.4610175
+        ]
+      },
+      "id": "way/1314372611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372612",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3393332,
+          41.4604142
+        ]
+      },
+      "id": "way/1314372612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372613",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3333651,
+          41.4599938
+        ]
+      },
+      "id": "way/1314372613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372614",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.333914,
+          41.4615234
+        ]
+      },
+      "id": "way/1314372614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372615",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3343377,
+          41.4630209
+        ]
+      },
+      "id": "way/1314372615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372616",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3355241,
+          41.4636162
+        ]
+      },
+      "id": "way/1314372616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372617",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3305543,
+          41.463247
+        ]
+      },
+      "id": "way/1314372617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372618",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3278725,
+          41.4629031
+        ]
+      },
+      "id": "way/1314372618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372620",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3255362,
+          41.4624915
+        ]
+      },
+      "id": "way/1314372620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372621",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3268848,
+          41.461639
+        ]
+      },
+      "id": "way/1314372621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372622",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3281271,
+          41.4616625
+        ]
+      },
+      "id": "way/1314372622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372623",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3295641,
+          41.4618127
+        ]
+      },
+      "id": "way/1314372623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372624",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.330264,
+          41.461561
+        ]
+      },
+      "id": "way/1314372624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372625",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3307242,
+          41.4606726
+        ]
+      },
+      "id": "way/1314372625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372626",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3236731,
+          41.4624854
+        ]
+      },
+      "id": "way/1314372626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372627",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3225236,
+          41.4622314
+        ]
+      },
+      "id": "way/1314372627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372628",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3217298,
+          41.4627174
+        ]
+      },
+      "id": "way/1314372628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372629",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3202028,
+          41.4626094
+        ]
+      },
+      "id": "way/1314372629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372630",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3207762,
+          41.46123
+        ]
+      },
+      "id": "way/1314372630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372631",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.319277,
+          41.4609092
+        ]
+      },
+      "id": "way/1314372631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372632",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3175223,
+          41.4620013
+        ]
+      },
+      "id": "way/1314372632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372633",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3147817,
+          41.4641003
+        ]
+      },
+      "id": "way/1314372633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372634",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3191726,
+          41.4619972
+        ]
+      },
+      "id": "way/1314372634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372635",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3213154,
+          41.4629489
+        ]
+      },
+      "id": "way/1314372635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372636",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3393008,
+          41.4617792
+        ]
+      },
+      "id": "way/1314372636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372637",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3437972,
+          41.4628332
+        ]
+      },
+      "id": "way/1314372637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372638",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3491473,
+          41.4662758
+        ]
+      },
+      "id": "way/1314372638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372639",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.341797,
+          41.4660382
+        ]
+      },
+      "id": "way/1314372639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372641",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3398292,
+          41.4654594
+        ]
+      },
+      "id": "way/1314372641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372642",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3394601,
+          41.4652536
+        ]
+      },
+      "id": "way/1314372642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372643",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3421428,
+          41.4646665
+        ]
+      },
+      "id": "way/1314372643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372644",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.338403,
+          41.4654334
+        ]
+      },
+      "id": "way/1314372644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372645",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3360019,
+          41.4646026
+        ]
+      },
+      "id": "way/1314372645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372648",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3383982,
+          41.4642225
+        ]
+      },
+      "id": "way/1314372648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372649",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3375444,
+          41.4638813
+        ]
+      },
+      "id": "way/1314372649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372650",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3359446,
+          41.4626674
+        ]
+      },
+      "id": "way/1314372650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372651",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3375895,
+          41.4625308
+        ]
+      },
+      "id": "way/1314372651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372652",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3324403,
+          41.4629573
+        ]
+      },
+      "id": "way/1314372652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372653",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3335074,
+          41.4665409
+        ]
+      },
+      "id": "way/1314372653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314372657",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3362454,
+          41.4589156
+        ]
+      },
+      "id": "way/1314372657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111381",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3805533,
+          41.469542
+        ]
+      },
+      "id": "way/1316111381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111388",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.382538,
+          41.4696821
+        ]
+      },
+      "id": "way/1316111388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111389",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3810181,
+          41.468333
+        ]
+      },
+      "id": "way/1316111389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111390",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3819835,
+          41.4689779
+        ]
+      },
+      "id": "way/1316111390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111391",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3837669,
+          41.4697947
+        ]
+      },
+      "id": "way/1316111391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111392",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3775512,
+          41.4677613
+        ]
+      },
+      "id": "way/1316111392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111393",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3800348,
+          41.470235
+        ]
+      },
+      "id": "way/1316111393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111408",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3839765,
+          41.4685623
+        ]
+      },
+      "id": "way/1316111408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111416",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3853261,
+          41.4694091
+        ]
+      },
+      "id": "way/1316111416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111417",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3856156,
+          41.469773
+        ]
+      },
+      "id": "way/1316111417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111418",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3874649,
+          41.4693251
+        ]
+      },
+      "id": "way/1316111418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111420",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3858218,
+          41.4681731
+        ]
+      },
+      "id": "way/1316111420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111423",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3892398,
+          41.467874
+        ]
+      },
+      "id": "way/1316111423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111429",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3781637,
+          41.4711315
+        ]
+      },
+      "id": "way/1316111429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111430",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3795774,
+          41.4714831
+        ]
+      },
+      "id": "way/1316111430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111432",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3821809,
+          41.4713447
+        ]
+      },
+      "id": "way/1316111432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316111435",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3776904,
+          41.4687718
+        ]
+      },
+      "id": "way/1316111435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316116497",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3843653,
+          41.4715656
+        ]
+      },
+      "id": "way/1316116497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316116498",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3864833,
+          41.4717843
+        ]
+      },
+      "id": "way/1316116498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316116502",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.380116,
+          41.4745949
+        ]
+      },
+      "id": "way/1316116502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316116520",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3888473,
+          41.4716786
+        ]
+      },
+      "id": "way/1316116520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327083005",
+        "waterway": "sluice_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0010391,
+          50.8245721
+        ]
+      },
+      "id": "way/1327083005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328342502",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1260329,
+          49.783805
+        ]
+      },
+      "id": "way/1328342502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328342572",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1261523,
+          49.7811088
+        ]
+      },
+      "id": "way/1328342572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328352241",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1291461,
+          49.7846128
+        ]
+      },
+      "id": "way/1328352241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328352516",
+        "man_made": "pumping_station",
+        "name": "Нососная станция №77",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1308561,
+          49.7850153
+        ]
+      },
+      "id": "way/1328352516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328354729",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1353054,
+          49.7875384
+        ]
+      },
+      "id": "way/1328354729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328360020",
+        "man_made": "pumping_station",
+        "name": "Центральный тепловой пункт",
+        "operator": "ГУ \"Отдел строительства города Караганды\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1494571,
+          49.7941247
+        ]
+      },
+      "id": "way/1328360020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328374572",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1299316,
+          49.7717013
+        ]
+      },
+      "id": "way/1328374572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328374573",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1295457,
+          49.770182
+        ]
+      },
+      "id": "way/1328374573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328408454",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1379363,
+          49.7762508
+        ]
+      },
+      "id": "way/1328408454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328411302",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1406603,
+          49.7779632
+        ]
+      },
+      "id": "way/1328411302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328411305",
+        "man_made": "pumping_station",
+        "name": "Тепловая насосная станция",
+        "operator": "ГУ \"Отдел строительства города Караганды\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1437496,
+          49.7732674
+        ]
+      },
+      "id": "way/1328411305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328411306",
+        "man_made": "pumping_station",
+        "operator": "ТОО \"Қарағанды Су\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1439448,
+          49.7733631
+        ]
+      },
+      "id": "way/1328411306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1333574745",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1334998,
+          49.7797742
+        ]
+      },
+      "id": "way/1333574745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1362001942",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8153841,
+          42.1889027
+        ]
+      },
+      "id": "way/1362001942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377444835",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3786465,
+          50.5221894
+        ]
+      },
+      "id": "way/1377444835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377444836",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5232218,
+          50.6952371
+        ]
+      },
+      "id": "way/1377444836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377444837",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5723541,
+          50.7255427
+        ]
+      },
+      "id": "way/1377444837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377444838",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7723048,
+          50.7945661
+        ]
+      },
+      "id": "way/1377444838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377444839",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9047858,
+          50.8280189
+        ]
+      },
+      "id": "way/1377444839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377445295",
+        "man_made": "pumping_station",
+        "name": "насосная станция №10",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3124732,
+          51.3741132
+        ]
+      },
+      "id": "way/1377445295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377445296",
+        "man_made": "pumping_station",
+        "name": "насосная станция №11",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2366334,
+          51.2906481
+        ]
+      },
+      "id": "way/1377445296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377445297",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0265723,
+          51.1289874
+        ]
+      },
+      "id": "way/1377445297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377445415",
+        "man_made": "pumping_station",
+        "name": "насосная станция №9",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.363651,
+          51.5199188
+        ]
+      },
+      "id": "way/1377445415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377445513",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6130242,
+          51.6911699
+        ]
+      },
+      "id": "way/1377445513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377445748",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.114317,
+          51.805885
+        ]
+      },
+      "id": "way/1377445748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377446061",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.594081,
+          51.852677
+        ]
+      },
+      "id": "way/1377446061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377446099",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.459296,
+          51.8391335
+        ]
+      },
+      "id": "way/1377446099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377446119",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3767126,
+          51.8376586
+        ]
+      },
+      "id": "way/1377446119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377446795",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0489626,
+          51.7816341
+        ]
+      },
+      "id": "way/1377446795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377452695",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.30942,
+          50.3536416
+        ]
+      },
+      "id": "way/1377452695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377452699",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3390924,
+          50.3954349
+        ]
+      },
+      "id": "way/1377452699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377452701",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3317041,
+          50.4025908
+        ]
+      },
+      "id": "way/1377452701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377452703",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3336325,
+          50.510921
+        ]
+      },
+      "id": "way/1377452703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377453942",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9797891,
+          50.9470097
+        ]
+      },
+      "id": "way/1377453942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377454667",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0535601,
+          51.2178577
+        ]
+      },
+      "id": "way/1377454667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377455062",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5226119,
+          51.6649607
+        ]
+      },
+      "id": "way/1377455062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377455863",
+        "man_made": "pumping_station",
+        "substance": "water",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9911665,
+          51.9929501
+        ]
+      },
+      "id": "way/1377455863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1391965528",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3172338,
+          48.8845034
+        ]
+      },
+      "id": "way/1391965528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421594046",
+        "man_made": "pumping_station",
+        "name": "Южный водозабор",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9405855,
+          52.2193216
+        ]
+      },
+      "id": "way/1421594046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422735020",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0181569,
+          52.2084908
+        ]
+      },
+      "id": "way/1422735020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1423483741",
+        "man_made": "pumping_station",
+        "name": "№ 68 кәріз су сорғылау бекеті",
+        "name:ru": "Канализационная насосная станция № 68",
+        "operator": "АО «Aqtobe su-energy group»",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.198212,
+          50.2838318
+        ]
+      },
+      "id": "way/1423483741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1425554536",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5037779,
+          42.9649935
+        ]
+      },
+      "id": "way/1425554536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1425554537",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5081762,
+          42.9655288
+        ]
+      },
+      "id": "way/1425554537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1430560886",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2164327,
+          43.2763058
+        ]
+      },
+      "id": "way/1430560886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1430560887",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2165337,
+          43.2778421
+        ]
+      },
+      "id": "way/1430560887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1430560888",
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2166276,
+          43.2784728
+        ]
+      },
+      "id": "way/1430560888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431512888",
+        "barrier": "fence",
+        "man_made": "pumping_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9632315,
+          43.1843613
+        ]
+      },
+      "id": "way/1431512888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1455395009",
+        "man_made": "pumping_station",
+        "name": "\"11 шағын ауданының\" су қысымын көтеру бойынша сорғылау бекеті",
+        "name:ru": "Повысительная насосная станция \"11 микрорайона\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1996075,
+          50.2871211
+        ]
+      },
+      "id": "way/1455395009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1455406327",
+        "man_made": "pumping_station",
+        "name": "№3 насос станциясы",
+        "name:ru": "Насосная станция №3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2046435,
+          50.2818894
+        ]
+      },
+      "id": "way/1455406327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1828767545",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9479842,
+          46.8252578
+        ]
+      },
+      "id": "node/1828767545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303676803",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7165407,
+          49.9017178
+        ]
+      },
+      "id": "node/2303676803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370965588",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3496479,
+          49.657693
+        ]
+      },
+      "id": "node/2370965588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370965635",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3501273,
+          49.6587033
+        ]
+      },
+      "id": "node/2370965635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370965682",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3505991,
+          49.659702
+        ]
+      },
+      "id": "node/2370965682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370965703",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3510581,
+          49.6606924
+        ]
+      },
+      "id": "node/2370965703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370965736",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.35154,
+          49.6616812
+        ]
+      },
+      "id": "node/2370965736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2692607753",
+        "ele": "141",
+        "name": "Колыбай",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9651334,
+          51.225522
+        ]
+      },
+      "id": "node/2692607753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4186860648",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.4612878,
+          52.6044019
+        ]
+      },
+      "id": "node/4186860648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187412843",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0504398,
+          49.1097773
+        ]
+      },
+      "id": "node/6187412843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187412844",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0504827,
+          49.1097211
+        ]
+      },
+      "id": "node/6187412844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187412845",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0501672,
+          49.1099267
+        ]
+      },
+      "id": "node/6187412845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8099942116",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4324588,
+          51.117634
+        ]
+      },
+      "id": "node/8099942116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9484604118",
+        "man_made": "pumping_station",
+        "substance": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7853139,
+          42.4068381
+        ]
+      },
+      "id": "node/9484604118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9484604144",
+        "man_made": "pumping_station",
+        "substance": "sewage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7913777,
+          42.4140035
+        ]
+      },
+      "id": "node/9484604144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10092516212",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.638269,
+          49.7092616
+        ]
+      },
+      "id": "node/10092516212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10593215718",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7523326,
+          47.7905901
+        ]
+      },
+      "id": "node/10593215718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11233145947",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2020776,
+          40.9442695
+        ]
+      },
+      "id": "node/11233145947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11235651304",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2045663,
+          40.9328575
+        ]
+      },
+      "id": "node/11235651304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11252640368",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2733125,
+          40.9905398
+        ]
+      },
+      "id": "node/11252640368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11254775092",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2281808,
+          40.7503355
+        ]
+      },
+      "id": "node/11254775092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11255076145",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2607492,
+          40.7459284
+        ]
+      },
+      "id": "node/11255076145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11257406639",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2681844,
+          40.7883147
+        ]
+      },
+      "id": "node/11257406639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11277147088",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3093305,
+          40.8635693
+        ]
+      },
+      "id": "node/11277147088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11341770289",
+        "waterway": "sluice_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3844374,
+          51.1951259
+        ]
+      },
+      "id": "node/11341770289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11611373821",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7972916,
+          41.2062274
+        ]
+      },
+      "id": "node/11611373821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11641353312",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.939462,
+          41.3084617
+        ]
+      },
+      "id": "node/11641353312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11700339551",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0197827,
+          41.3775979
+        ]
+      },
+      "id": "node/11700339551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11700339570",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0199351,
+          41.377609
+        ]
+      },
+      "id": "node/11700339570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11700339908",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0212902,
+          41.3792424
+        ]
+      },
+      "id": "node/11700339908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11708061641",
+        "man_made": "pumping_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05096,
+          43.5481454
+        ]
+      },
+      "id": "node/11708061641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11716258340",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0905969,
+          41.3735908
+        ]
+      },
+      "id": "node/11716258340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11737303736",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1750222,
+          41.402714
+        ]
+      },
+      "id": "node/11737303736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12035896052",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1419504,
+          41.4375243
+        ]
+      },
+      "id": "node/12035896052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12035896053",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.142281,
+          41.4376287
+        ]
+      },
+      "id": "node/12035896053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12035896054",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1425456,
+          41.4380702
+        ]
+      },
+      "id": "node/12035896054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12093891533",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2181405,
+          41.4596779
+        ]
+      },
+      "id": "node/12093891533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12093891534",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2181168,
+          41.4595286
+        ]
+      },
+      "id": "node/12093891534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12207173589",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3699147,
+          41.5008114
+        ]
+      },
+      "id": "node/12207173589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12241893478",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3614441,
+          41.5116757
+        ]
+      },
+      "id": "node/12241893478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12244104276",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3721814,
+          41.5177253
+        ]
+      },
+      "id": "node/12244104276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12244104294",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3697669,
+          41.520109
+        ]
+      },
+      "id": "node/12244104294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12470769277",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8176462,
+          42.4124447
+        ]
+      },
+      "id": "node/12470769277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12470769286",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8179277,
+          42.4126675
+        ]
+      },
+      "id": "node/12470769286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12475576480",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9704711,
+          42.3718496
+        ]
+      },
+      "id": "node/12475576480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12475576500",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9691527,
+          42.3729858
+        ]
+      },
+      "id": "node/12475576500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12475576515",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9695966,
+          42.3725213
+        ]
+      },
+      "id": "node/12475576515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12518786656",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9605019,
+          42.262406
+        ]
+      },
+      "id": "node/12518786656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12531566908",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0918018,
+          42.2442151
+        ]
+      },
+      "id": "node/12531566908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12549237648",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1850404,
+          42.2248059
+        ]
+      },
+      "id": "node/12549237648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12549497845",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2067381,
+          42.2228095
+        ]
+      },
+      "id": "node/12549497845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12552136567",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2415777,
+          42.2172985
+        ]
+      },
+      "id": "node/12552136567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12675994358",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1118218,
+          50.0648463
+        ]
+      },
+      "id": "node/12675994358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12675994385",
+        "seamark:type": "gate",
+        "waterway": "lock_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1091343,
+          50.0668352
+        ]
+      },
+      "id": "node/12675994385"
+    }
+  ]
+}
